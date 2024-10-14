@@ -1,7 +1,9 @@
 # Portfolio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **Adam Blake**  
