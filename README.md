@@ -1,4 +1,4 @@
-# Public Repositories
+# Portfolio (Public Repositories)
 
 **Adam Blake**  
 *Data Scientist with expertise in the energy industry.*
